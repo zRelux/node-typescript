@@ -1,6 +1,6 @@
 ## NodeJS Typescritpt Starter repo
 
-## Fatto da
+## Made by
 
 ##### Leonardo Drici (https://github.com/zRelux)
 
